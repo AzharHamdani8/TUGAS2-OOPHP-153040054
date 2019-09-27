@@ -13,9 +13,4 @@ $c = new Coba();
 
 var_dump($a);
 
-
-
-
-
-
  ?>
